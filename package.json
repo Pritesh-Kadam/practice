@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "exam pressure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pritesh-Kadam/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pritesh-Kadam/practice/issues"
+  },
+  "homepage": "https://github.com/Pritesh-Kadam/practice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
